@@ -164,8 +164,8 @@
     }
 }
 .logotiplar__1{
-    flex-direction: column;
-    justify-content: center;
+    /* flex-direction: column; */
+    /* justify-content: center; */
     text-align: center;
     align-items: center;
 }
